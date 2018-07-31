@@ -1,0 +1,13 @@
+A. Buka PHPMyAdmin 
+1) Buat database dengan nama
+db-rsu-avisena.com
+2) import database db-rsu-avisena.com.sql
+
+B. Login http://localhost/rsu-avisena.com
+1) Password admin & username admin 
+2) Laman settings untuk membuat, menghapus, & memperbaharui data login
+3) Form data pasien untuk buat kwitansi
+4) Pencarian data dilakukan di Data Laporan
+5) Data laporan dapat mencetak rekap berdasarkan tanggal
+6) Data laporan dapat mengeksport semua rekap (tidak berdasarkan tanggal)
+7) Logout
